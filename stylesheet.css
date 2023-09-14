@@ -1,0 +1,18 @@
+body{
+    background-color: #131313;
+    font-family: monospace;
+    color: white;
+}
+a:link{
+    font-family: monospace;
+    color: white;
+}
+a:visited{
+    font-family: monospace;
+    color: white;
+}
+
+a:hover{
+    font-family: monospace;
+    color: rgb(222, 222, 222);
+}
