@@ -52,3 +52,17 @@ a{
 .windex{
     filter: blur(50)
 }
+
+.timer{
+    color: #68e14b;
+    text-align: center;
+    
+    padding-bottom: 0px;
+    font-size: 100px;
+}
+.label{
+    color: #fff;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 0px;
+}
