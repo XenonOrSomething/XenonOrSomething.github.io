@@ -47,10 +47,16 @@ a{
     color: white;
     background: #45933c;
     cursor:context-menu;
-  }
-
-.windex{
-    filter: blur(50)
+    transition: 0.3s;
+}
+.btn:hover {
+    padding: 0.6rem;
+    background: #4a9f41;
+    cursor: pointer;
+}
+.cat{
+    width: 500px;
+    height: auto;
 }
 
 .timer{
